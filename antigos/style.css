@@ -1,0 +1,11 @@
+.titulo_navbar_bruno_oliveira{
+    color: red;
+}
+
+
+
+.imgmusic_pos20 {
+    animation: updown 5s linear infinite;
+    border: 3px solid black;
+    border-radius: 5px;
+}
